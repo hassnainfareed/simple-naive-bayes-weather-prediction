@@ -1,3 +1,3 @@
-# simple-naive-bayes-weather-prediction
-Simple naive bayes implementation for weather prediction
+# Simple Naive Bayes Weather Prediction
+Simple naive bayes implementation for weather prediction in python 
 
